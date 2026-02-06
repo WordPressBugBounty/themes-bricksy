@@ -78,6 +78,8 @@ https://www.rawpixel.com/image/3284123/free-photo-image-jewelry-bouquet-floral-b
 https://www.rawpixel.com/image/3302967/free-photo-image-wedding-bouquets-and-rings-flowers-arrangement-wedding-bouquet
 
 == Changelog ==
+28 October 2025 - version 1.5.5
+* checked with the latest WordPress version and various minor improvements
 15 October 2024 - version 1.5.4
 * checked with the latest WordPress version and few minor fixes
 24 August 2023 - version 1.5.3
